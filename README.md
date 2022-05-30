@@ -7,6 +7,8 @@ Just clone and run "docker-compose up"
 Fetch any page with :
 curl localhost:port/?pageUrl= url & customSleep = millis
 
+default port is 3000, you can change this in docker-compose.yml ( left one )
+
 pageUrl : the page you want 
 customSleep : milliseconds to wait after end of page load ( to let javascript load ), default is 1000
 
