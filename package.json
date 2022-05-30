@@ -1,0 +1,18 @@
+{
+  "name": "fakebrowser_docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "fakebrowser": "^0.0.66"
+  }
+}
